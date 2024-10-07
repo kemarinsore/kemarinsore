@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aryaandika0@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3W6hLAR](https://bit.ly/3W6hLAR)
+- 📄 Know about my experiences [https://bit.ly/3W6hLAR](https://porto-andhika.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
